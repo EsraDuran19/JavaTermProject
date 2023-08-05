@@ -1,0 +1,6 @@
+Customer name= Esra, age= 20 , totalPrice= 25, Table= Table 3
+Customer name= Duran, age= 20 , totalPrice= 30, Table= Table 4
+Customer name= Merve, age= 17 , totalPrice= 61, Table= Table 5
+
+Customer name= exra, age= 2 , totalPrice= 30, Table= Table 3
+Customer name= e, age= 12 , totalPrice= 15, Table= Table 2
